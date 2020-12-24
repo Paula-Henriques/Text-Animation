@@ -1,4 +1,3 @@
-# Text-Animation
 <html><head> 
   <meta charset="utf-8"> 
   <title>Css Text Animaton</title> 
